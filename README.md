@@ -22,6 +22,19 @@ twitter任何偵測->傳到google sheet(當作資料庫)->pipedream會傳信息�
 
 <img src="https://i.imgur.com/mqEYsuW.png" width="100%" height="100%">
 
-* **kol_new_following** ->只要這個表更新，>pipedream就會觸發discord bot傳信息
+* **kol_new_following** ->只要這個表更新，-> pipedream 就會觸發 discord bot 傳信息
 
 <img src="https://i.imgur.com/rcIV2dd.png" width="30%" height="30%">
+
+* **pipedream 設定1**
+
+<img src="https://i.imgur.com/YNHMfA9.png" width="80%" height="80%">
+
+* **pipedream 設定2**
+
+<img src="https://i.imgur.com/l7V9bXY.png" width="80%" height="80%">
+
+* **discord 傳信息** 
+
+<img src="https://i.imgur.com/j37bFQR.png" width="50%" height="50%">
+
