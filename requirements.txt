@@ -1,0 +1,6 @@
+pandas
+datetime
+tweepy
+gspread
+oauth2client
+gspread_dataframe
